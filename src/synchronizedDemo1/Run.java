@@ -1,8 +1,4 @@
-package test;
-
-import mytask.Task;
-import mythread.MyThread1;
-import mythread.MyThread2;
+package synchronizedDemo1;
 
 public class Run {
 

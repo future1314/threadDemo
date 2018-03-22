@@ -1,4 +1,4 @@
-package mytask;
+package synchronizedDemo1;
 
 public class Task {
 
